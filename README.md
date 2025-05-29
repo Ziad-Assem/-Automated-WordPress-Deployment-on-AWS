@@ -142,8 +142,7 @@ After successful deployment and configuration, navigate to the public IP of the 
 
 **Mohamed Mahmoud**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Mahmoud-blue)](https://github.com/Mohamed-Mahmoud98)  
-[![Email](https://img.shields.io/badge/Email-mohamedmahmoud6498%40gmail.com-red)](mailto:mohamedmahmoud6498@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ziad--Assem-blue)](https://github.com/Ziad-Assem)  
+[![Email](https://img.shields.io/badge/Email-ziadassem3000%40gmail.com-red)](mailto:ziadassem3000@gmail.com)
 ---
 
-> ⚙️ *This project is intended for educational and DevOps practice purposes. Contributions and feedback are welcome!*
