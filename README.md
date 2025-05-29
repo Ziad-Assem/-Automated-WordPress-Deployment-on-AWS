@@ -140,7 +140,7 @@ After successful deployment and configuration, navigate to the public IP of the 
 
 ## 👨‍💻 Authors
 
-**Mohamed Mahmoud**
+**Ziad Assem**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ziad--Assem-blue)](https://github.com/Ziad-Assem)  
 [![Email](https://img.shields.io/badge/Email-ziadassem3000%40gmail.com-red)](mailto:ziadassem3000@gmail.com)
